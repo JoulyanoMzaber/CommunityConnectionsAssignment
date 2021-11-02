@@ -1,7 +1,6 @@
 #include "ClassRoll.h"
-// Name: Joulyano Mzaber
-// Purpose: Let the professirs maintaine the grades and information on each student enrolled
-// Client File
+
+// Stuff were deleted here for COMP220
 
 // add the showCourse() function here
 void showCourse(ClassRoll school)

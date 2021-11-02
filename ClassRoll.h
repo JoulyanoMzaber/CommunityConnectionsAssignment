@@ -7,6 +7,8 @@ const int SIZE = 25;
 // Name: Joulyano Mzaber
 // Specification File
 
+// This was added for COMP220 
+
 // Structure
 struct StudentRec
 {
