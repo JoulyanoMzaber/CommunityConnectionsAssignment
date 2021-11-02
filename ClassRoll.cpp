@@ -1,5 +1,4 @@
-#include "ClassRoll.h"
-// Name: Joulyano Mzaber
+// more changed
 // Changes were made here for COMP220
 
 ClassRoll::ClassRoll(string fileName, string actualCourse, int maximum)

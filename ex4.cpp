@@ -2,7 +2,9 @@
 
 // Stuff were deleted here for COMP220
 
-// add the showCourse() function here
+// more were deleted
+
+
 void showCourse(ClassRoll school)
 {
 	cout << "Course name: " << school.getCourseName()

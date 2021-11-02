@@ -8,6 +8,7 @@ const int SIZE = 25;
 // Specification File
 
 // This was added for COMP220 
+// more were added
 
 // Structure
 struct StudentRec
